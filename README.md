@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Hoje trabalho como Analista de Suporte Jr N1
-- 🐍 Estudando Python
+- 👨🏻‍💻 Estudando JavaScript
 - 📫 Contate-me no e-mail: guilherme.ssantos2806@gmail.com
 
 <div align="center">
